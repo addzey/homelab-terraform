@@ -1,2 +1,2 @@
 # homelab-terraform
-Terraform code for my homelab setup
+Terraform code for my homelab
